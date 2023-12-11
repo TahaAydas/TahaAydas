@@ -1,7 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome My Page!&animation=fadeIn&type=waving&color=gradient&height=120&width=50"/>
-</p>
 
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Welcome&nbsp;My&nbsp;Page&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Yeah%20it's%20me&descAlignY=70)
+
+
+---
+<h2>About me</h2>
 - 🔭 I’m currently working on Apache Kafka, Kubernetes and Docker
 - 🌱 I’m currently learning Apache Superset, AWS and KSQL
 - 📫 How to reach me: via mail: aydastaha@gmail.com
@@ -35,7 +37,9 @@
 ---
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
+<!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+-->
 </p>
