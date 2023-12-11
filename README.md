@@ -2,16 +2,16 @@
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Welcome&nbsp;My&nbsp;Page&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Yeah%20it's%20me&descAlignY=70)
 
 
----
+
 
 <h2>About me</h2>
-</br>
+
 - 🔭 I’m currently working on Apache Kafka, Kubernetes and Docker
 - 🌱 I’m currently learning Apache Superset, AWS and KSQL
 - 📫 How to reach me: via mail: aydastaha@gmail.com
 - 😄 Pronouns: He/Him
 
-
+---
 
 <a href="https://www.linkedin.com/in/tahaaydas">
   <img height="50" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png"/>
