@@ -18,17 +18,17 @@
 </a>
 
 ---
-<\h2>My Stats</h2>
+<h2>⚡ My Stats</h2>
 
 [![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahaaydas&theme=radical)](https://github.com/tahaaydas/github-readme-stats)
 
 ---
-<h2>Top languages</h2>
+<h2>🔥 Top languages</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaydas&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<h2>Scores</h2>
+<h2>🎇 Scores</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tahaaydas&theme=onedark)](https://github.com/tahaaydas/github-profile-trophy)
 
