@@ -3,7 +3,9 @@
 
 
 ---
+
 <h2>About me</h2>
+</br>
 - 🔭 I’m currently working on Apache Kafka, Kubernetes and Docker
 - 🌱 I’m currently learning Apache Superset, AWS and KSQL
 - 📫 How to reach me: via mail: aydastaha@gmail.com
