@@ -1,21 +1,41 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome My Page!&animation=fadeIn&type=waving&color=gradient&height=120&width=50"/>
+</p>
 
 - 🔭 I’m currently working on Apache Kafka, Kubernetes and Docker
 - 🌱 I’m currently learning Apache Superset, AWS and KSQL
 - 📫 How to reach me: via mail: aydastaha@gmail.com
 - 😄 Pronouns: He/Him
 
-<!--
-**TahaAydas/TahaAydas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/tahaaydas">
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png"/>
+</a>
+
+<a href="https://github.com/TahaAydas">
+  <img height="50" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"/>
+</a>
+
+---
+<\h2>My Stats</h2>
+
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahaaydas&theme=radical)](https://github.com/tahaaydas/github-readme-stats)
+
+---
+<h2>Top languages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaydas&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<h2>Scores</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tahaaydas&theme=onedark)](https://github.com/tahaaydas/github-profile-trophy)
+
+---
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
