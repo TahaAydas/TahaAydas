@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Apache Kafka, Kubernetes and Docker
+- 🌱 I’m currently learning Apache Superset, AWS and KSQL
+- 📫 How to reach me: via mail: aydastaha@gmail.com
+- 😄 Pronouns: He/Him
+
 <!--
 **TahaAydas/TahaAydas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
